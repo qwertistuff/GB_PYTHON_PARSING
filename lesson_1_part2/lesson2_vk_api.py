@@ -2,7 +2,7 @@
 """
 Created on Sat Dec 18 15:40:22 2021
 
-@author: Mining
+@author: Vladimir
 """
 
 #https://vk.com/dev/groups.get
