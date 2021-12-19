@@ -1,0 +1,14 @@
+https://github.com/qwertistuff/edecutaion.git
+https://github.com/qwertistuff/GB_PYTHON_PARSING.git
+https://github.com/qwertistuff/Immusignature.git
+https://github.com/qwertistuff/introduction_to_ml_with_python.git
+https://github.com/qwertistuff/lstm-anomaly-detect.git
+https://github.com/qwertistuff/PHD.git
+https://github.com/qwertistuff/predict_conversion.git
+https://github.com/qwertistuff/python_notebook.git
+https://github.com/qwertistuff/r4ds.git
+https://github.com/qwertistuff/ru_transformers.git
+https://github.com/qwertistuff/SIBUR.git
+https://github.com/qwertistuff/SQL_GB.git
+https://github.com/qwertistuff/Techno-nicol.git
+https://github.com/qwertistuff/Test_Repo.git
